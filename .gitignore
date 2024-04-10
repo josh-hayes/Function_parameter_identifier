@@ -1,0 +1,20 @@
+# Ignore csv and png files
+*.csv
+*.png
+
+# Ignore Python virtual environments
+venv/
+env/
+
+# Ignore environment variables
+.env
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# PyCharm-specific files
+.idea/
+*.iml
