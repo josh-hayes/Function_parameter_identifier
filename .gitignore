@@ -1,6 +1,7 @@
 # Ignore csv and png files
 *.csv
 *.png
+*.backup
 
 # Ignore Python virtual environments
 venv/
